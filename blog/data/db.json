@@ -1,0 +1,18 @@
+{
+    "yazilar" : [
+        {
+            "ad":"react ogreniyorum",
+            "aciklama" : "lorem ipsum",
+            "yazar" : "zoro",
+            "id" : 1
+        },
+        {
+            "ad" : "ileri seviye c",
+            "aciklama" : "lorem ipsum",
+            "yazar" : "luffy",
+            "id" : 2
+
+        }
+        
+    ]
+}
